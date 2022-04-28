@@ -1,0 +1,14 @@
+ID,StateName,ClassName,PNGFilename,CollisionFilename
+0,Splash,PNGRoom,assets/Splash.png,
+1,Instructions,InstructionsScreen,assets/Instructions.png,
+2,Play,PNGRoom,assets/play.png,
+3,Walkscreen1,Walkscreen1Room,assets/walkscreen1.png,
+4,Walkscreen2,Walkscreen2Room,assets/walkscreen2.png,
+5,Walkscreen3,PNGRoom,assets/walkscreen3.png,
+6,Walkscreen4,PNGRoom,assets/Walkscreen6.png,
+7,Walkscreen5,PNGRoom,assets/walkscreen5.png,
+8,Walkscreen6,PNGRoom,assets/walkscreen6.png,
+9,Gameover,PNGRoom,assets/gameover.png,
+10,Mini1, PNGRoom,assets/minigame1.png,
+11,Mini2,PNGRoom,assets/minigame2.png,assets/minigame.csv
+
